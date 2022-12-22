@@ -13,7 +13,7 @@
     "lambda-uuid": "^1.0.0",
     "postgresql-easy": "^1.2.5",
     "serverless": "^1.72.0",
-    "serverless-offline": "^6.1.2",
+    "serverless-offline": "^12.0.3",
     "uuid": "latest"
   },
   "devDependencies": {
